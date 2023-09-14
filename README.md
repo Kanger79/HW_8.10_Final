@@ -44,7 +44,8 @@
 <details>
  <summary>скриншот</summary>
   
-![8 10_screen_04](https://github.com/Kanger79/HW_8.10_Final/assets/127352228/a84a9a5b-15ac-4421-a811-48be88edf008)
+![8 10_screen_04](https://github.com/Kanger79/HW_8.10_Final/assets/127352228/8d67c8f5-b1ab-4c43-9294-da28e17daaaf)
+
 
 </details>
 
